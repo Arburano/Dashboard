@@ -36,5 +36,3 @@ export interface WidgetManifest {
   minHeight?: number;
   eventsHandled?: string[];
 }
-
-export * from "./ipc";
